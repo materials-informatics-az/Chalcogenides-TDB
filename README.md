@@ -1,4 +1,4 @@
-# Thermodynamic assessment of Ba-La-S and Ga-La-S systems
+# Thermodynamic databases for Ba-La-S and Ga-La-S systems
 
 This repository contains TDB files corresponding to the thermodynamic assessment [published](https://doi.org/10.1016/j.calphad.2026.102924) by our group in Calphad journal (also available on [arXiv](https://arxiv.org/abs/2601.11899)).
 
